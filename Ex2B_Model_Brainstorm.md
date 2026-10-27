@@ -97,7 +97,7 @@ Assuming there are multiple appointments with multiple dogs and the same dog app
 
 Notes:
 
-A) Me and Tim have the same fields in our diagrams, and we also contain the same relationships. Our Diagrams look very similar. 
+A) Me and Tim have the same fields in our diagrams, and we also contain the same relationships. Our Diagrams look very similar.
 
 B) Our Diagrams are different through the formatting; such as mines has space for what type of key the field requires such as PK, INT, and FK. And a explanation for those differences is, I created my own vs generating it. So I was able to have exact control over all fields and styles. And the pro of this is I have exact control on how I want my diagram to look. And a con is, it is more time consuming to create your own.
 
